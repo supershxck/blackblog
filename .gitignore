@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.next/
+.DS_Store
+.env
+.env.local
+.env.*.local
+!/.env.example
+__pycache__/
+*.pyc
+.venv/
+venv/
+build/
+/.github/workflows/
+*.xcuserstate
+xcuserdata/
+DerivedData/
